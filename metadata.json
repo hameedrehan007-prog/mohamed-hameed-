@@ -1,0 +1,6 @@
+{
+  "name": "Nyaya Sahayak",
+  "description": "A bilingual digital legal assistance platform for citizens in India to understand rights, draft complaints, find remedies, and access verified legal aid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
